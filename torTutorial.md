@@ -208,13 +208,4 @@ Tor was oficially deployed in October 2002 and its source code was released unde
 
 Tor is supported by US government, many NGOs, private foundations, research institutions, private companies and over 20,000 personal donations from people from around the World.
 
-# Source
-
-https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
-
-
-
-EXTRA RESEARCH  - 
-
-1- http://4eoz4pemry55ioyns744kdvrqgmterzy5xlrairziuuxrjbmdipcyyad.onion/Recommend&Trust
-2  3666eyedb2c6dlvtys4nkjfxnyfjjielks2fijvmdivqp2noku2fzqqd.onion  {Third EyE}
+# Made By - Abhay
